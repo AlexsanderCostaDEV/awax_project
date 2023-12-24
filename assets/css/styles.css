@@ -1035,6 +1035,7 @@ footer {
     }
     .section-facts .fact {
     min-width: 100%;
+    padding: 0 25px;
     }
     .share .tell-aboutus {
         flex-direction: column;
